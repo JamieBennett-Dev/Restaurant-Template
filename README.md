@@ -1,1 +1,1 @@
-# Restaurant-Template
+# Restaurant Website Template
